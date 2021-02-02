@@ -1,4 +1,6 @@
-### This is a HTML skeleton file for developers
+
+- This is a HTML skeleton file for developers
+
 
 ```HTML
 <!DOCTYPE html>
