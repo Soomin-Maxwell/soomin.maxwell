@@ -1,3 +1,5 @@
+### This is a HTML skeleton file for developers
+
 ```HTML
 <!DOCTYPE html>
 <html>
